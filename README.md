@@ -1,4 +1,5 @@
-安装ShellClash 科学上网
+# 安装ShellClash 科学上网
+
 小米AX6000科学上网教程：https://youtu.be/vn5QdyDlTtI
 
 默认源
@@ -26,4 +27,5 @@ export url='https://fastly.jsdelivr.net/gh/juewuy/ShellClash@master' && wget -q 
 export url='http://test.shellclash.cf' && wget -q -O /tmp/install.sh $url/install.sh  && sh /tmp/install.sh && source /etc/profile &> /dev/null
 
 我使用的机场：http://www.txyun.xyz/
+
 电报：https://t.me/kjfxlyq
