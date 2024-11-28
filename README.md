@@ -1,7 +1,10 @@
 安装ShellClash 科学上网
 小米AX6000科学上网教程：https://youtu.be/vn5QdyDlTtI
 
+默认源
+
 export url='https://fastly.jsdelivr.net/gh/juewuy/ShellCrash@master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
+
 如果不能安装请使用下面备用安装源：
 
 #1
